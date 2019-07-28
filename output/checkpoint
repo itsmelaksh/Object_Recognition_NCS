@@ -1,0 +1,6 @@
+model_checkpoint_path: "traffic_net-6"
+all_model_checkpoint_paths: "traffic_net-2"
+all_model_checkpoint_paths: "traffic_net-3"
+all_model_checkpoint_paths: "traffic_net-4"
+all_model_checkpoint_paths: "traffic_net-5"
+all_model_checkpoint_paths: "traffic_net-6"
